@@ -1,8 +1,20 @@
  body{
-   margin: 0px;
-   padding: 0px;
-   font-size: 18px;
+    width: 1440px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
  }
  
+ .build-container{
+    width:1540px;
+    padding: 50px;
+    background-color: hsl(193, 100%, 96%);
+    background-image: url(images/bg-hero-desktop.svg);
+ }
+
+ #devices {
+
+ }
+
   .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
