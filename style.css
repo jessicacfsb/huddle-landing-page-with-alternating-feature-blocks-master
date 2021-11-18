@@ -1,5 +1,5 @@
  body{
-    width: 1440px;
+    min-width: 1440px;
     margin: 0px;
     padding: 0px;
     font-size: 18px;
@@ -15,6 +15,12 @@
  #devices {
 
  }
+
+footer{
+   padding: 50px;
+   background-color: hsl(192, 100%, 9%);
+
+}
 
   .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
